@@ -1,0 +1,13 @@
+1. Pip Insstall the libraries mentioned in Requirements.txt
+2. Get the API Tokens keys from the Hugging face website (https://huggingface.co/) 
+	and paste them in the .env file using text editor
+3. Run the FLAN-T5.py using the following command in the terminal
+
+	streamlit run Z:\Project/BART_model.py
+	(Replace the location of the file)
+	use Visual studio to run code seamless and make sure your system has python installed
+
+4. Input the skills keywords in the key words input space using Comma ',' as separator
+5. dragand drop the PDF Resumes in the Upload resumes space.
+6. Press Proceed button to rank the resumes
+7. Press process button to use the chatbot and then ask the query
